@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chatgptmentoring.github.io/lcc-shop/sitemap.xml
